@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.header{
+	width: 100%;
+	height: 25%;
+	background-color: aqua;
+}
+.child1{
+	width: 30%;
+	height: 55%;
+	background-color: aquamarine;
+	float: left;
+}
+.child2{
+	width: 70%;
+	height: 55%;
+	background-color: cadetblue;
+	float: left;
+}
+.footer{
+	width: 100%;
+	height: 20%;
+	background-color: cornflowerblue;
+	clear: left;
+}
